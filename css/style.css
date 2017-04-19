@@ -6,13 +6,11 @@ h1 {
 font-size: 70px;
 color: white;
 font-weight: bold;
+background: url ("C:\CodecademyProjects\Broadway\css\Resources\the-flatiron-building.png");
 }
-.btn-nav, .btn-nav2 {
+.btn-nav {
 font-size: 18px;
 color: white;
-}
-.background {
-background-image: url("file:///C:/CodecademyProjects/Broadway/css/Resources/the-flatiron-building.png");
 }
 h2 {
 font-size: 32px;
@@ -26,19 +24,13 @@ h3 {
 #identify p {
   font-size: 14px;
 }
-#desinny {
+#disinny {
   font-size: 23px;
   font-weight:bold;
   color: white;
-  background-image: url("file:///C:/CodecademyProjects/Broadway/css/Resources/the-flatiron-building.png");
 }
-
-#desinny h2 {
-  color: white;
-}
-#footer {
-  background-color: dimgray;
-}
-#footer p {
+.footer p {
   font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
